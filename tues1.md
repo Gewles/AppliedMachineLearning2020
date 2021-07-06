@@ -1,1 +1,1 @@
-Responses to Git
+Responses to Github
