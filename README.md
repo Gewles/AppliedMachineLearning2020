@@ -2,7 +2,8 @@
 
 ## Informal Exercises
 • Module 1
-    - [Tuesdays Response](tues1.md)
+    •[Tuesdays Response](tues1.md)
+    
 
 • Module 2
 
