@@ -8,6 +8,5 @@
 • Module 2
 
 ## Projects
-
 •Project 1
 •Project 2
