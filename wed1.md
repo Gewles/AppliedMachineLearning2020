@@ -3,13 +3,13 @@ Responses to Wednesdays Prompt
 1) Preprocess the data 
 
 Index = 5 
-![img.png](img.png)
+![img_8.png](img_8.png)
 
 Index = 15
-![img_1.png](img_1.png)
+![img_9.png](img_9.png)
 
 Index = 25
-![img_2.png](img_2.png)
+![img_10.png](img_10.png)
 
 Make Predictions:
 Array of Predictions
@@ -23,10 +23,10 @@ The np.argmax() and Softmax were classified as 1, meaning the model predicted ac
 Verify Predictions:
 
 Index = 20
-![img_3.png](img_3.png)
+![img_11.png](img_11.png)
 
-Index = 50
-![img_4.png](img_4.png)
+Index = 45
+![img_12.png](img_12.png)
 
 Using the trained model:
 
