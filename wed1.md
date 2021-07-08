@@ -33,3 +33,22 @@ On index = 9
 
 
 
+Part 2:
+
+![img_5.png](img_5.png)
+
+After fitting the data, the accuracy was
+0.9592
+
+Testing data:
+0.9455
+
+Index = 35
+![img_6.png](img_6.png)
+
+Index = 50
+![img_7.png](img_7.png)
+
+Accuracies:
+
+
