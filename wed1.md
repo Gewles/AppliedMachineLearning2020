@@ -13,9 +13,12 @@ Index = 25
 
 Make Predictions:
 Array of Predictions
-array([0.0000000e+00, 1.0000000e+00, 2.6920213e-36, 6.2433840e-33,
+
+Softmax: array([0.0000000e+00, 1.0000000e+00, 2.6920213e-36, 6.2433840e-33,
 1.9604979e-08, 4.2933546e-17, 6.1267055e-21, 1.4999898e-19,
 4.9671605e-22, 4.1210581e-17], dtype=float32)
+
+The np.argmax() and Softmax were classified as 1, meaning the model predicted accurately. The softmax function made predictions with the target , which outputed an array. Moreover, the argmax function was used to check for the highest softmax prediction.
 
 Verify Predictions:
 
@@ -37,11 +40,9 @@ Part 2:
 
 ![img_5.png](img_5.png)
 
-After fitting the data, the accuracy was
-0.9592
+After training the data, the accuracy was
+0.9980 on the training data and 0.9775 on the testing data.
 
-Testing data:
-0.9455
 
 Index = 35
 ![img_6.png](img_6.png)
@@ -51,4 +52,4 @@ Index = 50
 
 Accuracies:
 
-
+Comparing our accuracies between the FashionMNIST and MNIST, it appears that MNIST handwritten model performed better than the FashionMNIST model. I would assume that this occurs because the images in the MNIST model are less complex/have less pixels, and share a greater amount of pattern, thus being able to predict more accurately.
