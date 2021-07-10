@@ -7,6 +7,7 @@
 •[Wednesdays Response](wed1.md)
 •[Thursdays Response](https://amanroa.github.io/data310/thurs1.html)
 
+
 • Module 2
 
 • Module 3
