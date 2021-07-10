@@ -5,7 +5,7 @@
 
 •[Tuesdays Response](tues1.md)
 •[Wednesdays Response](wed1.md)
-•[Thursda Response](https://amanroa.github.io/data310/thurs1.html)
+•[Thursdays Response](https://amanroa.github.io/data310/thurs1.html)
 
 
 • Module 2
