@@ -12,7 +12,7 @@ Index = 25
 ![img_10.png](img_10.png)
 
 Make Predictions:
-Array of Predictions
+Array of Predictions at index 5
 
 Softmax: array([0.0000000e+00, 1.0000000e+00, 2.6920213e-36, 6.2433840e-33,
 1.9604979e-08, 4.2933546e-17, 6.1267055e-21, 1.4999898e-19,
@@ -38,14 +38,12 @@ The array of predicitions for the test image: [[2.0600728e-09 9.9999988e-01 3.62
 
 The model correctly identified that the image was Trouser.
 
-1.35
-
 
 Part 2:
 
 ![img_5.png](img_5.png)
 
-After training the data, the accuracy was
+After fitting the data, the accuracy was
 0.9980 on the training data and 0.9775 on the testing data.
 
 
