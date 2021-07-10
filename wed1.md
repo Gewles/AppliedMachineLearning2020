@@ -30,10 +30,15 @@ Index = 45
 
 Using the trained model:
 
-On index = 9
-[[1.4295059e-29 5.6032602e-15 8.5530046e-14 6.6799873e-12 1.3503964e-03
-1.3568001e-13 2.0982960e-29 4.8858096e-06 1.1485544e-11 9.9864477e-01]]
+On index = 3
+![img_13.png](img_13.png)
 
+The array of predicitions for the test image: [[2.0600728e-09 9.9999988e-01 3.6239403e-10 7.4216111e-08 1.4957640e-08
+1.2740857e-16 4.9858895e-10 5.1614350e-18 1.1119836e-12 2.2391287e-16]]
+
+The model correctly identified that the image was Trouser.
+
+1.35
 
 
 Part 2:
