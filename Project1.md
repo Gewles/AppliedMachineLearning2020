@@ -7,6 +7,8 @@ The model specified used three independent variables: number of bedrooms, number
 
 The model loss function is shown in the following:
 ![img_16.png](img_16.png)
+
+
 Though we see some oscillation, the loss function evens out after about 20 epochs.
 
 
