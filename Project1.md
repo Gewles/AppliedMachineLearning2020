@@ -29,11 +29,15 @@ Visually, the model was better at predicting home values that were less expensiv
 Running additional code, the five most accurate predictions:
 
 1) index = 34  
-   difference(predicted vs actual) =-0.0275 
+   
+   difference(predicted vs actual) =-0.0275
+   
    listing values = 400,000
    
 2) index = 1   
+   
    difference(predicted vs actual) =-0.0269 
+   
    listing values = 339,900
    
 3) index = 74  
