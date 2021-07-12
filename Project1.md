@@ -26,11 +26,25 @@ Visually, the model was better at predicting home values that were less expensiv
 
 Running additional code, the five most accurate predictions:
 
-1) index = 34  difference(predicted vs actual) =-0.0275 listing values = 400,000
-2) index = 1   difference(predicted vs actual) =-0.0269 listing values = 339,900
-3) index = 74  difference(predicted vs actual) =-0.0230 listing values = 239,900
-4) index = 358 difference(predicted vs actual) = 0.0378 listing values = 339,645
-5) index = 241 difference(predicted vs actual) = 0.0441 listing values = 535,900
+1) index = 34  
+   difference(predicted vs actual) =-0.0275 
+   listing values = 400,000
+   
+2) index = 1   
+   difference(predicted vs actual) =-0.0269 
+   listing values = 339,900
+   
+3) index = 74  
+   difference(predicted vs actual) =-0.0230 
+   listing values = 239,900
+   
+4) index = 358 
+   difference(predicted vs actual) = 0.0378 
+   listing values = 339,645
+   
+5) index = 241 
+   difference(predicted vs actual) = 0.0441 
+   listing values = 535,900
 
 The best and second-best predicted value ($239,900, $339,900) is below the 25th percentile, $399,220 and $617,500 were the 50th and 75th percentiles, respectively. The five most accurate predictions ranged from below the 25th percentile to above the 50th percentile; lower-priced listings were better predicted.
 
