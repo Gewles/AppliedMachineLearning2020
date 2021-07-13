@@ -26,15 +26,17 @@ This results in both a loss and val_loss above 2 as well.
 
 
 Which of the two models produces a better loss metric?
+
 Based on our plot, it appears that the DNN produces a better loss metric; the slope of the linear model was greater than the slope of the DNN model.
 
+##The Best Model
+The following datapoints were added to make a more successful model
+
+[‘highway-mpg’, ‘city-mpg’, ‘num-of-cylinders’, ‘engine-size’, ‘horsepower’, ‘curb-weight’, 'price']
 
 
-Return to the remainder of the variables from the dataset and add additional continuous and categorical features with the intent of improving your loss metric. 
+![img_20.png](img_20.png)
+
+The resulting loss hovered around 1.3; this model is better than the previous one, however, we assume some multicollinearity between highway-mpg and city-mpg, as data from those variables are similar. 
 
 
-Produce a plot that demonstrates the value of your model. 
-
-
-
-What is the best model your team was able to produce?
