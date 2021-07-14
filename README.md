@@ -14,6 +14,7 @@
 
 •[Mondays Response](mon2.md)
 
+•[Tuesdays Response](tues2.md)
 
 • Module 3
 
