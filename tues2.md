@@ -13,6 +13,6 @@
 3) Apply regularization, then add a drop out layer and finally combine both regularization with a dropout layer. Produce a plot that illustrates and compares all four models. Why in your estimation did certain models perform better?
 ![img_22.png](img_22.png)
 
-•After regularization, it looks like all the models performed well except the dropout model. Looking at the graph, it seems that the combined model fared the best.
+•After regularization, it looks like all the models performed well except the dropout model. Looking at the graph, it seems that the combined model fared the best.****
 
 4) What is an overfit model? Why is it important to address it? What are four different ways we have addressed an overfit model thus far?
