@@ -18,6 +18,8 @@
 
 •[Wednesday/Thursdays Response](wed2.md)
 
+•[Fridays Response]()
+
 • Module 3
 
 • Module 4

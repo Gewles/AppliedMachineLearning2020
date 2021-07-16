@@ -13,14 +13,15 @@
 3) Apply regularization, then add a drop out layer and finally combine both regularization with a dropout layer. Produce a plot that illustrates and compares all four models. Why in your estimation did certain models perform better?
 ![img_22.png](img_22.png)
 
-•After regularization, it looks like all the models performed well except the dropout model. Looking at the graph, it seems that the combined model fared the best.
+•After regularization, it looks like all the models performed well except the dropout model. Looking at the graph, it seems that the combined model fared the best. This is probably due to the combination of L2 regularization, which keeps the model from being too complex, and dropout, which drops features as the model is training.  
 
 4) What is an overfit model? Why is it important to address it? What are four different ways we have addressed an overfit model thus far?
 
-•
+• An overfit model is a model that trains too closely to a set of data points. It is important to address such problems because overfitting reduces future applicability and possibly results in a useless model. 
+
 
 The four different ways we have addressed an overfit model are:
-1) 
-2)
-3)
-4)
+1) L1 regularization
+2) L2 regularization
+3) dropout model
+4) combination (dropout and L2 regularization)

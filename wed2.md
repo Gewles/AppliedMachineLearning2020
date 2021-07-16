@@ -2,7 +2,7 @@
 
 
 ##Plots:
-How did each filter transformed each image.
+How did each filter transformed each image?
 
 
 Original picture
