@@ -1,4 +1,4 @@
-# Index Applied Machine Learning
+# Applied Machine Learning
 
 ## Informal Exercises
 • Module 1
