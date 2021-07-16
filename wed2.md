@@ -6,28 +6,28 @@ How did each filter transformed each image.
 
 
 Original picture
-![img.png](img.png)
+![img_23.png](img_23.png)
 
 
 
 
-filter:[ [ -1, 0, 1], [1, -1, 0],  [0, 0. 0 ]]
+#new filter
 
-got bridgter
-![img_1.png](img_1.png)
 
 CHANGE MORE FILTERS
 
 got darker
+![img_24.png](img_24.png)
+
 filter = [ [1, 1, 0], [-2, 1, -2], [1, 0, -1]]
-![img_3.png](img_3.png)
+
 
 
 
 
 
 2x2
-![img_4.png](img_4.png)
+![img_25.png](img_25.png)
 
 
 Complexity decreases

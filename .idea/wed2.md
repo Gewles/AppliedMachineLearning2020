@@ -27,7 +27,7 @@ filter = [ [1, 1, 0], [-2, 1, -2], [1, 0, -1]]
 
 
 2x2
-![img_4.png](img_4.png)
+![img_5.png](img_5.png)![img_4.png](img_4.png)
 
 
 Complexity decreases 
