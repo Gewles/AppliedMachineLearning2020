@@ -14,9 +14,9 @@
 
 •[Mondays Response](mon2.md)
 
-•[Tuesdays Response](tues2.md)
+•[Tuesdays Response/Wednesdays](tues2.md)
 
-•[Wednesday/Thursdays Response](wed2.md)
+•[Thursdays Response](wed2.md)
 
 •[Fridays Response]()
 

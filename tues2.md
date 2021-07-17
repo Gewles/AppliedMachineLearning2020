@@ -1,3 +1,5 @@
+#Part 1: Higgs Dataset
+
 1) Describe the dataset. What type of variable is the target? How many features are being used? How many observations are in the training dataset? How many are used in the validation set? 
    
 •The Higgs Dataset is a massive dataset with billions of entry data. The dataset used is a significantly smaller subset of the original dataset; there are 11,000,000 examples, each of which has 28  features.
@@ -25,3 +27,59 @@ The four different ways we have addressed an overfit model are:
 2) L2 regularization
 3) dropout model
 4) combination (dropout and L2 regularization)
+
+#Part  2: Convolutions
+##Plots:
+How did each filter transform each image?
+
+###Original Picture:
+![img_23.png](img_23.png)
+
+
+###Filter 1
+![img_24.png](img_24.png)
+
+
+###Filter 2
+![img_26.png](img_26.png)
+
+###Filter 3
+![img_27.png](img_27.png)
+
+
+
+
+
+
+
+2x2
+![img_25.png](img_25.png)
+ 
+The complexity of our image deceases.
+
+
+
+
+What are you functionally accomplishing as you apply the filter to your original array?
+
+•
+
+Why is the application of a convolving filter to an image useful for computer vision?
+
+•
+
+In effect what have you accomplished by applying this filter?
+
+•
+
+Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
+
+•
+
+Did the resulting image increase in size or decrease?
+
+•The resulting image decreased in size from 500x500 to 250x250
+
+Why would this method be useful?
+
+•computer focuses on the key features
