@@ -67,7 +67,6 @@ How did each filter transform each image?
 •convolution is useful because, when the image is transformed, the computer focuses on the key features of the image, which makes it easier for the model to classify each image correctly.
 
 ###The  2x2
-2x2
 ![img_25.png](img_25.png)
 
 
@@ -77,7 +76,7 @@ How did each filter transform each image?
 
 ###Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
 
-•There is a maximizing logic behind pooling; the pooling filter takes the highest value in the pixel.
+•There is a maximizing logic behind pooling; the pooling filter reduces the model to its most important aspects by taking the highest value in the pixel.
 
 ###Did the resulting image increase in size or decrease?
 
