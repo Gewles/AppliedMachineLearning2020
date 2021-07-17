@@ -39,47 +39,52 @@ How did each filter transform each image?
 ###Filter 1
 ![img_24.png](img_24.png)
 
+•the filter I applied to this picture darkened the image immensely; it did a poor job highlighting the lines that would be useful for training. 
+
+
 
 ###Filter 2
 ![img_26.png](img_26.png)
+
+•this filter, when applied, changed the picture very little. The filter visibly enhanced the vertical lines, resulting in a better image for training the model.
 
 ###Filter 3
 ![img_27.png](img_27.png)
 
 
+•this filter, similar to the first filter, darkened the image; it seems that comparatively, this image did a better job at highlighting the important portions for training the data.
 
 
 
 
 
+###What are you functionally accomplishing as you apply the filter to your original array?
+
+•when each filter is applied to an image, the pixels are scanned and the values of each pixel are multiplied by the weights, which ends up transforming the picture.
+
+###Why is the application of a convolving filter to an image useful for computer vision?
+
+•convolution is useful because, when the image is transformed, the computer focuses on the key features of the image, which makes it easier for the model to classify each image correctly.
+
+###The  2x2
 2x2
 ![img_25.png](img_25.png)
- 
-The complexity of our image deceases.
 
 
+###In effect what have you accomplished by applying this filter?
 
+•the filter reduced the image into 
 
-What are you functionally accomplishing as you apply the filter to your original array?
+###Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
 
-•
+•There is a logic behind pooling;
 
-Why is the application of a convolving filter to an image useful for computer vision?
+###Did the resulting image increase in size or decrease?
 
-•
+•The resulting image decreased in size from 500x500 to 250x250.
 
-In effect what have you accomplished by applying this filter?
-
-•
-
-Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
-
-•
-
-Did the resulting image increase in size or decrease?
-
-•The resulting image decreased in size from 500x500 to 250x250
-
-Why would this method be useful?
+###Why would this method be useful?
 
 •computer focuses on the key features
+
+##The Matrix
