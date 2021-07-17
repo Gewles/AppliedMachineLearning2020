@@ -1,24 +1,35 @@
+For class, we prepared code for the flowers dataset through tensorflow; we manipulated the code so that it would work with both the beans dataset and the EUROsat dataset; there were many complications. First, there was trouble importing the data. Then, we had to make sure we were configuring the data before we ran the model.fit, or else we would get a dimension error. Overall, the bulk of the trouble was trying to run all the epochs; some would run for hours and hours, so I had to resort in decreasing the amount of epochs ran. 
 
 
-We 25 epochs for our models.
-
-Beans:
-
+#Beans
 Base Model:
 
+After training the model, I reached an accuracy of .9756 on the training data and a validation accuracy of ..... The validation loss is best at the beginning,  
 
-Validation-
-Test-
+
+
 
 Augmented Model
 
 
+![img_31.png](img_31.png)
 
 
-EuroSAT: Base Model
+
+#EuroSAT
+
+Base Model:
+After training the model, I reached an accuracy of .9756 on the training data and a validation accuracy of 0.8522. The validation accuracy increased steadily for the first few epochs, then leveled off. Though there was some degree of overfitting, the results remain positive.   
+
+![img_29.png](img_29.png)
 
 
-Validation-
-Test
+Augmented Model: The augmentation method did not improve the model much; it made the validation loss rise faster after a few epochs and decreased the top accuracy.  
 
-Augmented MOdel
+
+
+![img_30.png](img_30.png)
+
+
+
+•collaborated with Liz, Huatao, and Lydia
