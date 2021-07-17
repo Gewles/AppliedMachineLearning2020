@@ -73,11 +73,11 @@ How did each filter transform each image?
 
 ###In effect what have you accomplished by applying this filter?
 
-•the filter reduced the image into 
+•the filter reduced the image into what is believed to be the most important features.
 
 ###Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
 
-•There is a logic behind pooling;
+•There is a maximizing logic behind pooling; the pooling filter takes the highest value in the pixel.
 
 ###Did the resulting image increase in size or decrease?
 
@@ -85,6 +85,7 @@ How did each filter transform each image?
 
 ###Why would this method be useful?
 
-•computer focuses on the key features
+•Because pooling reduces the complexity of a model to its most important features, the model can be trained easier and should improve accuracy; the information can be received through a faster and more efficient method.
 
 ##The Matrix
+![img_28.png](img_28.png)
