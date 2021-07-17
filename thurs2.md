@@ -4,9 +4,9 @@ For class, we prepared code for the flowers dataset through tensorflow; we manip
 #Beans
 Base Model:
 
-After training the model, I reached an accuracy of .9756 on the training data and a validation accuracy of ..... The validation loss is best at the beginning,  
+After training the model, I reached an accuracy of .97 on the training data and a validation accuracy of 0.58. The validation loss is best at the beginning and gets worse after each epoch. The high accuracy of the training set suggests that the model became quickly overfit.
 
-
+![img_32.png](img_32.png)
 
 
 Augmented Model:
