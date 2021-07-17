@@ -9,7 +9,8 @@ After training the model, I reached an accuracy of .9756 on the training data an
 
 
 
-Augmented Model
+Augmented Model:
+After running the base model, we applied augmentation. The data got more accurate, with a validation accuracy of 0.74, and an overall model accuracy of 1.0, which was arrived at fairly quickly. The loss function, however increased, with the accuracy leveling off after a few epochs. The augmentation definitely improved the accuracy of the validation dataset. 
 
 
 ![img_31.png](img_31.png)
