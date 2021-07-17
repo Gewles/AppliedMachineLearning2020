@@ -16,9 +16,8 @@
 
 •[Tuesdays Response/Wednesdays](tues2.md)
 
-•[Thursdays Response](wed2.md)
+•[Thursdays Response](thurs2.md)
 
-•[Fridays Response]()
 
 • Module 3
 
