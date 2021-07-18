@@ -23,9 +23,13 @@
 
 
 The four different ways we have addressed an overfit model are:
+
 1) L1 regularization
+   
 2) L2 regularization
+   
 3) dropout model
+   
 4) combination (dropout and L2 regularization)
 
 # Part  2: Convolutions
