@@ -1,4 +1,4 @@
-#Part 1: Higgs Dataset
+# Part 1: Higgs Dataset
 
 1) Describe the dataset. What type of variable is the target? How many features are being used? How many observations are in the training dataset? How many are used in the validation set? 
    
@@ -28,27 +28,27 @@ The four different ways we have addressed an overfit model are:
 3) dropout model
 4) combination (dropout and L2 regularization)
 
-#Part  2: Convolutions
-##Plots:
+# Part  2: Convolutions
+## Plots:
 How did each filter transform each image?
 
-###Original Picture:
+### Original Picture:
 ![img_23.png](img_23.png)
 
 
-###Filter 1
+### Filter 1
 ![img_24.png](img_24.png)
 
 •the filter I applied to this picture darkened the image immensely; it did a poor job highlighting the lines that would be useful for training. 
 
 
 
-###Filter 2
+### Filter 2
 ![img_26.png](img_26.png)
 
 •this filter, when applied, changed the picture very little. The filter visibly enhanced the vertical lines, resulting in a better image for training the model.
 
-###Filter 3
+### Filter 3
 ![img_27.png](img_27.png)
 
 
@@ -58,33 +58,33 @@ How did each filter transform each image?
 
 
 
-###What are you functionally accomplishing as you apply the filter to your original array?
+### What are you functionally accomplishing as you apply the filter to your original array?
 
 •when each filter is applied to an image, the pixels are scanned and the values of each pixel are multiplied by the weights, which ends up transforming the picture.
 
-###Why is the application of a convolving filter to an image useful for computer vision?
+### Why is the application of a convolving filter to an image useful for computer vision?
 
 •convolution is useful because, when the image is transformed, the computer focuses on the key features of the image, which makes it easier for the model to classify each image correctly.
 
-###The  2x2
+### The  2x2
 ![img_25.png](img_25.png)
 
 
-###In effect what have you accomplished by applying this filter?
+### In effect what have you accomplished by applying this filter?
 
 •the filter reduced the image into what is believed to be the most important features.
 
-###Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
+### Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
 
 •There is a maximizing logic behind pooling; the pooling filter reduces the model to its most important aspects by taking the highest value in the pixel.
 
-###Did the resulting image increase in size or decrease?
+### Did the resulting image increase in size or decrease?
 
 •The resulting image decreased in size from 500x500 to 250x250.
 
-###Why would this method be useful?
+### Why would this method be useful?
 
 •Because pooling reduces the complexity of a model to its most important features, the model can be trained easier and should improve accuracy; the information can be received through a faster and more efficient method.
 
-##The Matrix
+## The Matrix
 ![img_28.png](img_28.png)
