@@ -1,6 +1,8 @@
 ## Metro Interstate Traffic Volume Data Set
 `plot_model()`
 
+![img_33.png](img_33.png)
+
 ### plot description
 
 •
@@ -32,6 +34,7 @@
 ##Iris Dataset
 `plot_model()`
 
+![img_34.png](img_34.png)
 ###plot description
 
 

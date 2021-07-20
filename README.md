@@ -23,7 +23,7 @@
 
 •[Mondays Response](mon3.md)
 
-•[Tuesdays Response]()
+•[Tuesdays Response](tues3.md)
 
 •[Wednesdays Response]()
 
