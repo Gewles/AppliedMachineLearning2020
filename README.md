@@ -25,7 +25,7 @@
 
 •[Tuesdays Response](tues3.md)
 
-•[Wednesdays Response]()
+•[Wednesdays Response](wed3.md)
 
 •[Thursdays Response]()
 
