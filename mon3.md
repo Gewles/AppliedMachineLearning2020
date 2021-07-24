@@ -13,9 +13,9 @@
 
 ![img_38.png](img_38.png)
 
-•weirdly enough, the resulting loss was negative, by a lot. Even after removing various features, the model still resulted in a strongly negative loss value. 
+•weirdly enough, the resulting loss was negative, by a lot. Even after removing various features, the model still resulted in a strongly negative loss value. I am unsure with these results are due to my own computational error or from the model itself
 
-##Iris Dataset
+## Iris Dataset
 `plot_model()`
 
 ![img_34.png](img_34.png)
