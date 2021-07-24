@@ -1,35 +1,19 @@
 ## Metro Interstate Traffic Volume Data Set
+
+
 `plot_model()`
 
 ![img_33.png](img_33.png)
 
 ### plot description
 
-• our data is from the iris dataset, which contains 120 flowers split into three classifications of iris: versicolor, virginica, and setosa. In the dataset, there are four features: sepal length, sepal width, petal length, and petal width. 
+• the first layer of our plot_model contains all the features from the dataframe. Then, there seems to be two resulting paths based on categorical or numeric data; one in which the numeric values are concatenated together and the other takes the input as strings, converts them to numerical values, and concatenates them together.  
 
-### What does each box in the illustration represent?
+### trained model
 
-•
+![img_38.png](img_38.png)
 
-### Are there different paths towards the final concatenation step?
-
-•
-
-### What is occurring at each step and why is it necessary to execute before fitting your model?
-
-•
-
-### Describe the model output
-
-
-
-### What is the target for the dataset? How would you assess the accuracy of each model?
-
-•
-
-### Are you using a different metric for each one? Why is this so? What is each one measuring?
-
-•
+•weirdly enough, the resulting loss was negative, by a lot. Even after removing various features, the model still resulted in a strongly negative loss value. 
 
 ##Iris Dataset
 `plot_model()`
@@ -37,29 +21,9 @@
 ![img_34.png](img_34.png)
 ### plot description
 
+• for the iris dataset, all the features were numeric, including the target. The features of this plot_model, as opposed to our metro plot, go through the same path (because they all are numeric). Additionally, all the features go through normalization after concatenation, which is uses to rescale the data.
 
+### trained model
 
-### What does each box in the illustration represent?
-
-•
-
-### Are there different paths towards the final concatenation step?
-
-•
-
-### What is occurring at each step and why is it necessary to execute before fitting your model?
-
-•
-
-### Describe the model output
-
-
-
-### What is the target for the dataset? How would you assess the accuracy of each model?
-
-•
-
-### Are you using a different metric for each one? Why is this so? What is each one measuring?
-
-•
+• the loss for the model was so small that it registered as zero after running 10 epochs. It seems like the differences that resulted in the loss are insignificant, but that is implausible. For the future, I would try to recreate a more efficient model for better and more accurate results. 
 
