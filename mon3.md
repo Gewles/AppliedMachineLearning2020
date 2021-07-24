@@ -5,7 +5,7 @@
 
 ### plot description
 
-•
+• our data is from the iris dataset, which contains 120 flowers split into three classifications of iris: versicolor, virginica, and setosa. In the dataset, there are four features: sepal length, sepal width, petal length, and petal width. 
 
 ### What does each box in the illustration represent?
 
