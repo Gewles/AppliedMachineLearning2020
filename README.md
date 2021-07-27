@@ -32,9 +32,6 @@
 
 • Module 4
 
-•[Mondays Response]()
-
-•[Tuesdays Response]()
 
 •[Wednesdays Response]()
 
