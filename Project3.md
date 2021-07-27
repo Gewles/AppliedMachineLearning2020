@@ -69,7 +69,7 @@
 
 3) cols3 = `['No facility/bush/field','99','Hanging toilet/latrine', 'Composting toilet','Bucket toilet','Other', ]`
 
-• However, there was very little change in the results; both accuracies decreased slighly and loss increase slightly.
+• However, there was very little change in the results; both accuracies decreased slighly and loss increased slightly.
 
 ### Attempting improvements (Categorical) w/ Aggregation
 
