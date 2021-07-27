@@ -45,7 +45,9 @@
 
 ![img_46.png](img_46.png)
 
-•
+![img_47.png](img_47.png)
+
+• after aggregation using our binary model, we received a positive outcome; the model was **finally** able to correctly predict some of the values as opposed to simply stating that all the values were 0.
 
 ### Attempting improvements 
 
