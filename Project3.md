@@ -51,4 +51,7 @@
 
 ### Attempting improvements 
 
+**At Epoch 10:** ![img_48.png](img_48.png)
+
+![img_49.png](img_49.png)
 •
