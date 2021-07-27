@@ -39,6 +39,7 @@
 
 ![img_39.png](img_39.png)
 
+• After looking at the confusion matrix and comparing it to our binary model, the categorical target model actually **did** fare better than the previous model, contrary to our resulted accuracies; this is because our model was actually classifying the data, not just consistently labeling the data points as 0. Additionally, at each wealth class level, even if there was misclassification, the predicted value was not too far off from the actual value.
 
 ### Attempting improvements 
 
