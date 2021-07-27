@@ -17,7 +17,7 @@
 
 ![img_43.png](img_43.png)
 
-• Wealth Group 2,
+• Wealth Group 2 had the lowest accuracy among the five wealth classes, reaching an accuracy of about 0.74. Additionally, there were no issues with the model being overfit as the testing accuracy also remained at about 0.74. From this information alone, our overall modeling technique seems decent in predicting the accurate result, but our confusion matrices below prove otherwise.
 
 ### Confusion Matrix 
 ![img_41.png](img_41.png)
