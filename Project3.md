@@ -8,6 +8,8 @@
 
 ![img_42.png](img_42.png)
 
+• Wealth Group 5, the highest wealth group, had the best binary model, with a final accuracy of a whopping 96.2%. Due to the close proximity between the test accuracy and training accuracy, I didn't see any problems with overfitting. I continued using the same features, ultimately dropping `['hhid','pnmbr','weights', 'unit']` from the data and changing gender into a categorical variable. 
+
 ### Worst (Lowest Accuracy)
 
 ![img_41.png](img_41.png)
