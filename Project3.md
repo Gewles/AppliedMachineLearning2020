@@ -31,6 +31,12 @@
 
 ![img_44.png](img_44.png)
 
+•At first, I was unsure how to manipulate the Binary Model code to handle the categorical data. After a brief demonstration in classs, I changed the Dense Layer to 6 and used SparseCategoricalCrossentropy and SparseCategoricalAccuracy to have the code run without additional errors.
+
+
+•The Categorical Target model did not perform well, with a test accuracy of 0.588.  
+
+
 ![img_39.png](img_39.png)
 
 
