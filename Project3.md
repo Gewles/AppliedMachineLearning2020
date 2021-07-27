@@ -59,7 +59,16 @@
 
 ![img_53.png](img_53.png)
 
-•
+• To switch up the data a bit in attempts to improve the model, I changed the toilet feature into three separate columns as follows:
+
+1) cols1 = `['Flush to pit latrine', 'Flush to piped sewer system','Flush to somewhere else','Flush to septic tank', "Flush, don't know where"]`
+
+
+2) cols2= `['Ventilated Improved Pit latrine (VIP)', 'Pit latrine without slab/open pit', 'Pit latrine with slab']`
+
+
+3) cols3 = `['No facility/bush/field','99','Hanging toilet/latrine', 'Composting toilet','Bucket toilet','Other', ]`
+
 
 ### Attempting improvements (Categorical) w/ Aggregation
 
@@ -67,8 +76,4 @@
 
 ![img_49.png](img_49.png)
 
-• Similarly to the Binary Model, I changed the toilet feature into three separate columns as follows:
-
-1)
-2)
-3)
+• Similarly to the Binary Model, I changed the toilet feature into three separate columns.
