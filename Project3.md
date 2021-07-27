@@ -69,6 +69,7 @@
 
 3) cols3 = `['No facility/bush/field','99','Hanging toilet/latrine', 'Composting toilet','Bucket toilet','Other', ]`
 
+• However, there was very little change in the results; both accuracies decreased slighly and loss increase slightly.
 
 ### Attempting improvements (Categorical) w/ Aggregation
 
@@ -76,4 +77,4 @@
 
 ![img_49.png](img_49.png)
 
-• Similarly to the Binary Model, I changed the toilet feature into three separate columns.
+• Similarly to the Binary Model, I changed the toilet feature into three separate columns, but the accuracy decreased from 0.58 to 0.54, a noticeable difference. Additionally, even looking at the confusion matrix we can tell that the model is less accurate; it follows more of a staircase pattern rather than a diagonal one.
