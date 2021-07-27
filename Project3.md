@@ -49,9 +49,26 @@
 
 • after aggregation using our binary model, we received a positive outcome; the model was **finally** able to correctly predict some of the values as opposed to simply stating that all the values were 0.
 
-### Attempting improvements 
+### Attempting Improvements (Binary) w/ Aggregation
+
+**At Epoch 10:** ![img_51.png](img_51.png)
+
+![img_50.png](img_50.png)
+
+**At Epoch 10:** ![img_54.png](img_54.png)
+
+![img_53.png](img_53.png)
+
+•
+
+### Attempting improvements (Categorical) w/ Aggregation
 
 **At Epoch 10:** ![img_48.png](img_48.png)
 
 ![img_49.png](img_49.png)
-•
+
+• Similarly to the Binary Model, I changed the toilet feature into three separate columns as follows:
+
+1)
+2)
+3)
