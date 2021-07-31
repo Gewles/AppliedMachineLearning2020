@@ -47,9 +47,9 @@ Juliettly, my lord. What, draw it
 
 
 
-## Processing, vecorizing, and predicting text
+### Processing, vectorizing, and predicting text
 
 
-## Building and training the model
+### Building and training the model
 
-## Generating text
+### Generating text
