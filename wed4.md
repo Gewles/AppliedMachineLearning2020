@@ -18,3 +18,20 @@
 
 • It's funny; the famous _Scream_ is already hard to make out, but the newly transformed is an enigma in itself (dare I say it is better?). The original image conveys lively emotion, a nod to my pre-data science life, where I was certainly less knowledgeable of tensorflow. 
 
+
+### Steps Need
+•Define content and style representations
+
+For the model, we had to use the intermediate layer of the model, using the VGG19 network architecture, a pretrained image classifcation network. 
+
+•Extracting style and content
+
+The style was calculated using a Gram matrix, then the model is built that returns the style and content tensors.
+
+•Implementing the style transfer algorithm
+
+After getting the style and content extractor, we use the style transfer algorithm, which uses the MSE for the image's output relative to each target, then takes the weighted sum of these losses. 
+
+•Apply regularization term on the high frequency components
+
+Finally, we use regularization.
