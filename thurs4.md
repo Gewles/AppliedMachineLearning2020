@@ -53,7 +53,7 @@ Juliettly, my lord. What, draw it
 
 ### Building and training the model
 
-•
+• Now, we build and train the model using a keras model subclass, with three layers: Embedding, GRU, and Dense. Then, we attach our optiizer and loss function and for this specific model, we used configure checkpoints to ensure that checkpoints are saved during training. Though the original code ran for 20 epochs, the code ended up running 3 epochs, as 20 would have lasted an hour or two.
 
 ### Generating text
 
