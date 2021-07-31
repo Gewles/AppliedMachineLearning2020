@@ -39,4 +39,4 @@ Finally, we use regularization.in order to address the production of high freque
 
 ### Future as a Data Scientist
 
-In the most abstract sense, these two pictures can be related to my future as a data scientist. For mixture of octopus emoji and _The Scream_, the possible success achieved may be attributed to a great support structure that I find through family, friends, and faculty, all while being terrifed of the future and the stress that accompanies the coding life. 
+In the most abstract sense, these two pictures can be related to my future as a data scientist. For the mixture of octopus emoji and _The Scream_, the possible success achieved may be attributed to a great support structure that I find through family, friends, and faculty, all while being terrifed of the future and the stress that accompanies the coding life. 
