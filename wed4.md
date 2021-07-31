@@ -19,7 +19,7 @@
 • It's funny; the famous _Scream_ is already hard to make out, but the newly transformed is an enigma in itself (dare I say it is better?). The original image conveys lively emotion, a nod to my pre-data science life, where I was certainly less knowledgeable of tensorflow. 
 
 
-### Steps Need
+### Steps Needed
 •Define content and style representations
 
 For the model, we had to use the intermediate layer of the model, using the VGG19 network architecture, a pretrained image classifcation network. 
@@ -35,3 +35,8 @@ After getting the style and content extractor, we use the style transfer algorit
 •Apply regularization term on the high frequency components
 
 Finally, we use regularization.in order to address the production of high frequency artifacts that are produced by this basic implementation, which are decreased by using an explicit regularization term on the high frequency components of the image
+
+
+### Future as a Data Scientist
+
+In the most abstract sense, these two pictures can be related to my future as a data scientist. For mixture of octopus emoji and _The Scream_, the possible success achieved may be attributed to a great support structure that I find through family, friends, and faculty, all while being terrifed of the future and the stress that accompanies the coding life. 
