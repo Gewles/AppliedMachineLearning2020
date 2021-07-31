@@ -57,4 +57,4 @@ Juliettly, my lord. What, draw it
 
 ### Generating text
 
-•
+• The last and final step is to generate new Romeo and Juliet text based on the imported script. The simplest way to generate text with this specific model is to run it in a loop, keeping track of the model's internal state as it is executed. THe model knows when to capitalize, make paragraphs, and imitate Shakespearean vocabulary. Then, the new text is outputed (script above).
