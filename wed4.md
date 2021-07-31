@@ -34,4 +34,4 @@ After getting the style and content extractor, we use the style transfer algorit
 
 •Apply regularization term on the high frequency components
 
-Finally, we use regularization.
+Finally, we use regularization.in order to address the production of high frequency artifacts that are produced by this basic implementation, which are decreased by using an explicit regularization term on the high frequency components of the image
