@@ -1,5 +1,5 @@
 
-## 1) Generated Text
+## The Script
 
 ROMEO:
 Three prune that must not hear my hands before him
@@ -43,7 +43,9 @@ Juliettly, my lord. What, draw it
 
 
 
-## 2) Steps
+## Processing, vecorizing, and predicting text
 
 
-## 3) Generate new text
+## Building and training the model
+
+## Generating text
