@@ -35,7 +35,7 @@
 
 •[Wednesdays Response](wed4.md)
 
-•[Thursdays Response]()
+•[Thursdays Response](thurs4.md)
 
 
 ## Projects
