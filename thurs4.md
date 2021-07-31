@@ -49,7 +49,12 @@ Juliettly, my lord. What, draw it
 
 ### Processing, vectorizing, and predicting text
 
+• First, our text must be vectorized, a process where the string values are converted to a numerical representation after being tokenized. Next, the text is divided into example sentences in order to help with prediction; the dataset take the input and label as sequences and shifts to align for each timestep. Then, we create training batches, in this case 64.
 
 ### Building and training the model
 
+•
+
 ### Generating text
+
+•
