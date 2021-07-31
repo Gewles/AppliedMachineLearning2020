@@ -1,3 +1,7 @@
+# The Goal:
+
+We are creating a model that inputs a certain script and then outputs a script based on the imported script. 
+
 
 ## The Script
 
